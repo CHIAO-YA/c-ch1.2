@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\我的程式\後端作業1\後端作業1\後端作業1\bin\Debug\後端作業1.exe.config
+C:\Users\acer\Desktop\我的程式\後端作業1\後端作業1\後端作業1\bin\Debug\後端作業1.exe
+C:\Users\acer\Desktop\我的程式\後端作業1\後端作業1\後端作業1\bin\Debug\後端作業1.pdb
+C:\Users\acer\Desktop\我的程式\後端作業1\後端作業1\後端作業1\obj\Debug\後端作業1.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\我的程式\後端作業1\後端作業1\後端作業1\obj\Debug\後端作業1.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\我的程式\後端作業1\後端作業1\後端作業1\obj\Debug\後端作業1.exe
+C:\Users\acer\Desktop\我的程式\後端作業1\後端作業1\後端作業1\obj\Debug\後端作業1.pdb
+C:\Users\acer\Desktop\程式\後端作業1\後端作業1\後端作業1\bin\Debug\後端作業1.exe.config
+C:\Users\acer\Desktop\程式\後端作業1\後端作業1\後端作業1\bin\Debug\後端作業1.exe
+C:\Users\acer\Desktop\程式\後端作業1\後端作業1\後端作業1\bin\Debug\後端作業1.pdb
+C:\Users\acer\Desktop\程式\後端作業1\後端作業1\後端作業1\obj\Debug\後端作業1.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\程式\後端作業1\後端作業1\後端作業1\obj\Debug\後端作業1.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\程式\後端作業1\後端作業1\後端作業1\obj\Debug\後端作業1.exe
+C:\Users\acer\Desktop\程式\後端作業1\後端作業1\後端作業1\obj\Debug\後端作業1.pdb
